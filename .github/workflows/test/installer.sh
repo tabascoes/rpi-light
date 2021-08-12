@@ -2,4 +2,4 @@
 
 function runtest(){
   
-./install/main.sh
+./install/route.sh
