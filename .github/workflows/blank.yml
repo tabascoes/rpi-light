@@ -32,4 +32,4 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          ./rpi-light/.github/workflows/test/install.sh
+          ./rpi-light/.github/workflows/test/installer.sh
